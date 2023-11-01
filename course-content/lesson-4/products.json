@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Widget",
+		"price": 10,
+		"stock": 25
+	},
+	{
+		"name": "Gadget",
+		"price": 20,
+		"stock": 10
+	},
+	{
+		"name": "Doodad",
+		"price": 5,
+		"stock": 50
+	}
+]

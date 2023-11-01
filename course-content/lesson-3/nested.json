@@ -1,0 +1,13 @@
+{
+	"person": {
+		"name": "Alice",
+		"address": {
+			"city": "Los Angeles",
+			"state": "CA"
+		},
+		"hobbies": [
+			"reading",
+			"painting"
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"forecast": [
+		{
+			"day": "Monday",
+			"temperature": 78,
+			"rain": true
+		},
+		{
+			"day": "Tuesday",
+			"temperature": 82,
+			"rain": false
+		},
+		{
+			"day": "Wednesday",
+			"temperature": 75,
+			"rain": true
+		}
+	]
+}
