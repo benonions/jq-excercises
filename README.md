@@ -25,11 +25,11 @@ To get started with the course, follow these steps:
 
 The course is divided into several lessons, each focusing on different aspects of using `jq`. Here are the available lessons:
 
-- [Lesson 1: Basic Selection](course-content/lesson-1/excercises.md)
-- [Lesson 2: Filtering and Mapping](course-content/lesson-2/excercises.md)
-- [Lesson 3: Nested JSON](course-content/lesson-3/excercises.md)
-- [Lesson 4: Advanced Filtering](course-content/lesson-4/excercises.md)
-- [Lesson 5: JSON Manipulation](course-content/lesson-5/excercises.md)
-- [Lesson 6: Advanced Mapping](course-content/lesson-6/excercises.md)
-- [Lesson 7: Conditional Filtering](course-content/lesson-7/excercises.md)
-- [Lesson 8: String Manipulation](course-content/lesson-8/excercises.md)
+- [Lesson 1: Basic Selection](course-content/lesson-1/exercises.md)
+- [Lesson 2: Filtering and Mapping](course-content/lesson-2/exercises.md)
+- [Lesson 3: Nested JSON](course-content/lesson-3/exercises.md)
+- [Lesson 4: Advanced Filtering](course-content/lesson-4/exercises.md)
+- [Lesson 5: JSON Manipulation](course-content/lesson-5/exercises.md)
+- [Lesson 6: Advanced Mapping](course-content/lesson-6/exercises.md)
+- [Lesson 7: Conditional Filtering](course-content/lesson-7/exercises.md)
+- [Lesson 8: String Manipulation](course-content/lesson-8/exercises.md)
